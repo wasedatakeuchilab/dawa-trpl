@@ -32,7 +32,7 @@ Repository = "https://github.com/wasedatakeuchilab/dawa-trpl"
 
 [project.optional-dependencies]
 test = [
-  "mypy==1.13.0",
+  "mypy==2.1.0",
   "pytest==8.3.3",
   "pytest-cov==7.1.0",
   "pytest-describe==2.2.0",
